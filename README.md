@@ -1,7 +1,7 @@
-# JSON-based-Inventory-Management-System-ETG-Skill-India-Internship
-This inventory is having all the codes with JSON files for making an Inventory Management System during ETG ML/AI Internship.
+# JSON-based-Inventory-Management-System.
+This inventory is having all the codes with JSON files for making an Inventory Management System.
 ## I've made an inventory management system which works on NoSQL based dataset.
-- I have two JSON files, 'record' and 'sales'
+- Here two JSON files, 'record' and 'sales' are created.
 - New Inventories can be added and simultaneously get updated in 'record.json'
 - Purchasing items can be done by the customer and simultaneously get updated in 'record.json'and 'sales.json'
 - When a customer purchase any item, it is checked whether the item matches the product Id or not
